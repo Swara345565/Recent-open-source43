@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-
+# this page or code is primarily used for billing in python websites
 
 def check_amazon_availability(product_url):
     headers = {
